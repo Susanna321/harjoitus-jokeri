@@ -1,0 +1,35 @@
+body {
+    margin: 30px;
+}
+
+table {
+    border-spacing: 40px;
+    border-collapse: separate;
+    margin: 0;
+}
+
+td {
+    border: 1px solid black;
+    text-align: center;
+    width: 30px;
+    height: 30px;
+    background-color: bisque;
+    border-radius: 10px;
+    padding: 0;
+
+}
+
+p {
+    margin-left: 40px;
+    font-size: 20px;
+}
+
+button {
+    margin-left: 40px;
+    font-size: 20px;
+}
+
+h3 {
+    margin-left: 40px;
+    font-size: 30px;
+}
